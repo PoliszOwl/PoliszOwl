@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Poland</h3>
 
 
-- 🔭 I’m currently working on: **Stream Deck**
+- 🔭 I’m currently working on: **Stream Deck Launchpad**
 
 - 🌱 I’m currently learning: **Python & C++**
 
