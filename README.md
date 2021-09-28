@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **Python & C++**
 
-- 📫 If you have questions, ask me on discord: **PoliszOwl#2137**
+- 📫 If you have questions, ask me on discord: **PoliszOwl#5516**
 
 - ⚡ Fun fact: **I started programming in Python when I was 7.**
 
